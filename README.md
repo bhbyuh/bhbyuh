@@ -1,6 +1,6 @@
 ![logo](https://github.com/bhbyuh/Muaaz/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muaaz</h1>
-<h3 align="center">A AI/ML passionate</h3>
+<h3 align="center">AI/ML passionate , Data Engineering , NLP</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fmstudies.org%2F%3Fo%3Ddevelopers-gifs-get-the-best-gif-on-gifer-pp-PWMl7LTL&psig=AOvVaw02RyXkvBIhqJQHIMrumzu9&ust=1715807182371000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiTyYCGjoYDFQAAAAAdAAAAABAE">
 
