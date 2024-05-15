@@ -1,4 +1,4 @@
-![logo]([https://github.com/bhbyuh/Muaaz/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png](https://github.com/bhbyuh/bhbyuh/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png))
+![logo](https://github.com/bhbyuh/Muaaz/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muaaz</h1>
 <h3 align="center">A AI/ML passionate</h3>
 
