@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaaz&label=Profile%20views&color=0e75b6&style=flat" alt="muaaz" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing(NLP)**
+- 🌱 I’m currently learning **Natural Language Processing(NLP)** and **Computer Vision**
 
 - 💬 Ask me about **Data Science , Artificial Intelligence , Machine Learning , Natural Language Processing , Computer Vision**
 
