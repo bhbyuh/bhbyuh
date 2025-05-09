@@ -8,7 +8,7 @@
 
 - 🚀 I’m currently working in **Natural Language Processing (NLP)** and **Computer Vision (CV)**, primarily with Large Language Models (LLMs) — both open-source (like Mistral, LLaMA) and closed-source (such as OpenAI’s models).
 
-- 🧠 I specialize in **fine-tuning models**, including **Vision Transformers**, **LLMs**, and other deep learning architectures.
+- 🧠 I also work in **fine-tuning models**, including **Vision Transformers**, **LLMs**, and other deep learning architectures.
 
 - 📫 How to reach me **muaazmuzammil69@gmail.com**
 
