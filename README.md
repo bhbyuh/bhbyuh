@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaaz&label=Profile%20views&color=0e75b6&style=flat" alt="muaaz" /> </p>
 
-- 🚀 I’m currently working in **Natural Language Processing (NLP)** and **Computer Vision (CV)**, primarily with Large Language Models (LLMs) — both open-source (like Mistral, LLaMA) and closed-source (such as OpenAI’s models).
+- 🚀 I am currently working in **Natural Language Processing (NLP)** and **Computer Vision (CV)**, primarily with Large Language Models (LLMs) both open-source (like Mistral, LLaMA) and closed-source (such as OpenAI’s models).
 
 - 🧠 I also work in **fine-tuning models**, including **Vision Transformers**, **LLMs**, and other deep learning architectures.
 
