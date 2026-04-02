@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaaz&label=Profile%20views&color=0e75b6&style=flat" alt="muaaz" /> </p>
 
-- 🚀 I am currently working in **Natural Language Processing (NLP)** and **Computer Vision (CV)**, primarily with Large Language Models (LLMs) both open-source (like Mistral, LLaMA) and closed-source (such as OpenAI’s models).
+- 🚀 I am currently working on **batch and streaming data pipelines** using **Apache Spark** and **Databricks**, enabling scalable data processing for analytics and AI.
 
-- 🧠 I also work in **fine-tuning models**, including **Vision Transformers**, **LLMs**, and other deep learning architectures.
+- ⚙️ Experienced in **data orchestration and real time systems** with **Apache Kafka** and **Apache Airflow**, working with diverse **data formats** (Parquet, Avro, JSON, Delta), and building scalable solutions on **AWS** and **Azure**. Also skilled in **ETL/ELT pipelines**, **data modeling**, **data warehousing**, and designing **reliable, production grade data architectures**.
+  
+- 🧱 Also Building **robust data platforms** that power downstream **machine learning and AI systems**.
 
 - 📫 How to reach me **muaazmuzammil69@gmail.com**
 
