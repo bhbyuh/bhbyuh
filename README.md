@@ -19,7 +19,8 @@
 ### ✍️ Blogs & Knowledge Sharing
 I write blogs focused on **Data Engineering concepts and real world workflows**, helping others understand how data systems work end to end.
 
-My content covers the full pipeline — from **data ingestion → processing → storage → transformation → BI → AI systems** — with a focus on making complex concepts simple and practical to apply.
+My content covers the full pipeline from **data ingestion → processing → storage → transformation → BI → AI systems** — with a focus on making complex concepts simple and practical to apply.
+
 👉 Read my blogs here:
 <a href="https://medium.com/@muaazmuzammil69" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="medium" height="30" width="40" />
