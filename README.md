@@ -16,6 +16,18 @@
 
 - 📄 Know more about my profile: [LinkedIn](https://www.linkedin.com/in/muaazmuzammil-dataengineering-ai-ml/)
 
+### ✍️ Blogs & Knowledge Sharing
+
+I write blogs focused on **Data Engineering concepts and real world workflows**, helping others understand how data systems work end to end.
+
+My content covers the full pipeline — from **data ingestion → processing → storage → transformation → BI → AI systems** — with a focus on making complex concepts simple and practical to apply.
+👉 Read my blogs here:
+<a href="https://medium.com/@muaazmuzammil69" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="blog" height="30" width="40" />
+</a>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muaazmuzammil-dataengineering-ai-ml/" target="blank">
