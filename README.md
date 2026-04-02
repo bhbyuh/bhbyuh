@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muaazmuzammil69@gmail.com**
 
-- 📄 Know about my profile more [https://www.linkedin.com/in/muaazmuzammil-ai-ml-dl-dataengineering/])
+- 📄 Know about my profile more [[https://www.linkedin.com/in/muaazmuzammil-ai-ml-dl-dataengineering/](https://www.linkedin.com/in/muaazmuzammil-dataengineering-ai-ml/)])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
